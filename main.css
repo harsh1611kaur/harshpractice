@@ -1,0 +1,47 @@
+<!--Harshdeep Kaur-->
+html{
+    font-style : normal;
+    font-variant : small-caps;
+    font-weight : bold;
+    font-size : 12/15;
+    font-family : Arial, Helvetica, sans-serif;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background:lightblue;
+    color:green;
+    text-align: center;
+    padding:20px;
+}
+nav ul, aside ul
+{
+    list-style:none;
+}
+nav ul li, aside ul li
+{
+   display:inline;
+   margin-right: 20px;
+}
+main
+{
+  padding: 20px;
+}
+footer
+{
+  background: linear-gradient(to right);
+  color:brown;
+  text-align:center;
+  padding:10px;
+}
+.image-gallery
+{
+  display: grid;
+}
+
+.image-gallery img
+{
+    max-width:100%;
+    height: auto;
+}

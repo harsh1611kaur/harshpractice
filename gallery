@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <title>gallerry</title>
+    </head>
+    <body>
+        <header>
+            <h1>Mahatma Gandhi-Biography</h1>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Biography</a></li>
+                <li><a href="gallery">Gallery</a></li>
+            </ul>
+            </nav>
+            <aside>
+                <ul>
+                    <li><a href="Image/download.jpg">Biography</a></li>
+                    <li><a href="Image/images.jpg">History</a></li>
+                </ul>
+            </aside>
+            <main>
+                <section class="Image gallery"
+                <img src="https://en.m.wikipedia.org/wiki/File:Mohandas_K._Gandhi,_portrait.jpg" alt="Mahatma gandhi">
+                <img src="https://www.history.com/topics/asian-history/mahatma-gandhi.jpg" alt="mahatma gamdhi history">
+            </section>
+            </main>
+            <footer>
+                <p>&copy; Harshdeep Kaur 2023</p>
+            </footer>
+    </body>
+</html>
